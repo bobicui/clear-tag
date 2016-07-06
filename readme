@@ -1,0 +1,7 @@
+This program is used to clear the tags for the xml/html file.
+
+Usage: 
+clear-tag.py target result
+target: the xml/html file that you will deal with, this file must exist
+result: the file that will save the result
+
